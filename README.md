@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá me chamo Kamille 👋
 
-<!--
-**Kamille07-dev/Kamille07-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Estudante Engenharia de Software** pela [UCS](https://www.ucs.br/site).
+- 🎓 **Curso de robótica** pelo [SENAI](https://www.senairs.org.br/), em menor aprendiz.
+  
 
-Here are some ideas to get you started:
+## 🚀 Conhecimentos
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,c)](https://skillicons.dev)<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-{kamillerocha0704002@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamille-rocha-37958a307)<br><br>
+
+## 📌 Linguagens mais usadas
+
+<div>
+<a href="https://github.com/Kamille07-dev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamille07-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
