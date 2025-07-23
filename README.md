@@ -5,7 +5,7 @@
   
 
 ## 🚀 Conhecimentos
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,c)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,typescript,c)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,git,github)](https://skillicons.dev)<br><br>
